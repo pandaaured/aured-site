@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="home">
+    <p class="site-name">{{ site.title }}</p>
+    {% if site.description %}
+    <p class="tagline">{{ site.description }}</p>
+    {% endif %}
+    <hr class="divider">
+    <nav>
+        <a href="/posts">Writing</a>
+        <a href="/about">About</a>
+        <a href="/friends">Friends</a>
+        <a href="/miscellanea">Miscellanea</a>
+    </nav>
+    {% if content %}
+    <div class="content">
+      {{ content | safe }}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

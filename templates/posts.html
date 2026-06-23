@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Writing — {{ site.title }}{% endblock %}
+
+{% block content %}
+<article>
+   <header>
+    <div class="page-header">
+        <h1>Writing</h1>
+        <a href="/" class="back-btn">← back</a>
+    </div>
+</header>    <hr class="content-divider"/>
+    <ul class="posts">
+        {% for post in posts %}
+        <li>
+            <a href="/posts/{{ post.slug }}">{{ post.title }}</a>
+            <time>{{ post.date }}</time>
+            {% if post.description %}
+            <p>{{ post.description }}</p>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</article>
+{% endblock %}

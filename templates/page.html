@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }} — {{ site.title }}{% endblock %}
+
+{% block content %}
+<article>
+    <header>
+    <div class="page-header">
+        <div>
+            <h1>{{ title }}</h1>
+        </div>
+        <a href="/" class="back-btn">← back</a>
+    </div>
+</header>
+    <hr class="content-divider">
+    <div class="content">
+        {{ content | safe }}
+    </div>
+    {% if changelog %}
+    <footer class="changelog">
+        <h2>Changelog</h2>
+        <ul>
+            {% for entry in changelog %}
+            <li><time>{{ entry.date }}</time> — {{ entry.note }}</li>
+            {% endfor %}
+        </ul>
+    </footer>
+    {% endif %}
+</article>
+{% endblock %}
