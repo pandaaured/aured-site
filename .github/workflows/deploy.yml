@@ -27,6 +27,7 @@ jobs:
         with:
           repository: pandaaured/aurssg
           path: aurssg
+          token: ${{ secrets.AURSSG_TOKEN }}
 
       - uses: dtolnay/rust-toolchain@stable
 
