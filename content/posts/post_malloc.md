@@ -1,6 +1,7 @@
 +++
 title = "My long awaited post malloc update post!"
 date = 2025-11-06
+author = "Aured"
 +++
 
 Hello from the other side! I spent a considerable amount of the time between October and now

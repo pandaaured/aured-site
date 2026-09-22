@@ -22,23 +22,23 @@ preferences (as well as remembering what else I like.)
 
 ## Music
 
-- _Heaven or Las Vegas_, Cocteau Twins, 1990
-- _Loveless_, My Bloody Valentine, 1991
-- _Bossa Nova 2001_, Pizzicato Five, 1993
-- _Viva! La Woman_, Cibo Matto, 1996
-- _Fantasma_, Cornelius, 1997
-- _OK Computer_, Radiohead, 1997
-- _Stereo Type A_, Cibo Matto, 1999
-- _Beaucoup Fish_, Underworld, 1999
-- _Kid A_, Radiohead, 2000
-- _A Hundred Days Off_, Underworld, 2000
-- _Simple Things_, Zero 7, 2001
-- _Melody AM_, Röyksopp, 2001
-- _Velocity : Design : Comfort_, Sweet Trip, 2003
-- _Oblivion With Bells_, Underworld, 2007
-- _Velocifero_, Ladytron, 2008
-- _You Will Never Know Why_, Sweet Trip, 2009
-- _Wallsocket_, underscores, 2023
+- [_Heaven or Las Vegas_](https://en.wikipedia.org/wiki/Heaven_or_Las_Vegas), Cocteau Twins, 1990
+- [_Loveless_](https://en.wikipedia.org/wiki/Loveless_(album)), My Bloody Valentine, 1991
+- [_Bossa Nova 2001_](https://en.wikipedia.org/wiki/Bossa_Nova_2001), Pizzicato Five, 1993
+- [_Viva! La Woman_](https://en.wikipedia.org/wiki/Viva!_La_Woman), Cibo Matto, 1996
+- [_Fantasma_](https://en.wikipedia.org/wiki/Fantasma_(Cornelius_album)), Cornelius, 1997
+- [_OK Computer_](https://en.wikipedia.org/wiki/OK_Computer), Radiohead, 1997
+- [_Stereo Type A_](https://en.wikipedia.org/wiki/Stereo_Type_A), Cibo Matto, 1999
+- [_Beaucoup Fish_](https://en.wikipedia.org/wiki/Beaucoup_Fish), Underworld, 1999
+- [_Kid A_](https://en.wikipedia.org/wiki/Kid_A), Radiohead, 2000
+- [_A Hundred Days Off_](https://en.wikipedia.org/wiki/A_Hundred_Days_Off), Underworld, 2000
+- [_Simple Things_](https://en.wikipedia.org/wiki/Simple_Things_(Zero_7_album)), Zero 7, 2001
+- [_Melody AM_](https://en.wikipedia.org/wiki/Melody_A.M.), Röyksopp, 2001
+- [_Velocity : Design : Comfort_](https://en.wikipedia.org/wiki/Velocity_:_Design_:_Comfort), Sweet Trip, 2003
+- [_Oblivion With Bells_](https://en.wikipedia.org/wiki/Oblivion_with_Bells), Underworld, 2007
+- [_Velocifero_](https://en.wikipedia.org/wiki/Velocifero), Ladytron, 2008
+- [_You Will Never Know Why_](https://en.wikipedia.org/wiki/You_Will_Never_Know_Why), Sweet Trip, 2009
+- [_Wallsocket_](https://en.wikipedia.org/wiki/Wallsocket), underscores, 2023
 
 ## Video Games
 

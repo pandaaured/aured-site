@@ -1,6 +1,7 @@
 +++
 title = "Planning my panel, part 2"
 date = 2025-06-21
+author = "Aured"
 +++
 
 Happy 6/21! :3 

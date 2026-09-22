@@ -1,6 +1,7 @@
 +++
 title = "Anthrocon 2026"
 date = 2026-07-07
+author = "Aured"
 +++
 
 To start, I wanted to thank all of my friends who I was able to

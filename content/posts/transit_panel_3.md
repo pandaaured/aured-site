@@ -1,6 +1,7 @@
 +++
 title = "Panel retrospective"
 date = 2025-07-04
+author = "Aured"
 +++
 
 On July 4th, I finally was able to realize the event I had been building

@@ -1,6 +1,7 @@
 +++
 title = "Planning my panel"
 date = 2025-06-21
+author = "Aured"
 +++
 
 I was recently informed that the panel proposal I submitted for this year's

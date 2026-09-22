@@ -1,6 +1,7 @@
 +++
 title = "Seattle Retrospective"
 date = 2026-01-02
+author = "Aured"
 +++
 
 ## Overview
