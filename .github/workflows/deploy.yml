@@ -39,7 +39,7 @@ jobs:
         run: cargo build --release --manifest-path aurssg/Cargo.toml
 
       - name: Build site
-        run: ./aurssg/target/release/aurssg .
+        run: ./aurssg/target/release/aurssg --directory .
 
       - uses: actions/configure-pages@v5
 
