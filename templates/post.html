@@ -8,7 +8,10 @@
     <div class="page-header">
         <div>
             <h1>{{ title }}</h1>
-            <time>{{ date }}</time>
+            <time datetime="{{ published }}">{{ published }}</time>
+            {% if updated != published %}
+            <span>Updated <time datetime="{{ updated }}">{{ updated }}</time></span>
+            {% endif %}
         </div>
         <a href="/posts" class="back-btn">← back</a>
     </div>

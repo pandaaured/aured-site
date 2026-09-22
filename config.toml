@@ -1,5 +1,6 @@
 [site]
-title = "Aured"
+title = "Aured's Personal Site"
+author = "Aured"
 url = "https://pandaau.red"
 
 [build]

@@ -12,9 +12,10 @@
     <title>{{ post.title }}</title>
     <link href="{{ site.url }}/posts/{{ post.slug }}/"/>
     <id>{{ site.url }}/posts/{{ post.slug }}/</id>
-    <updated>{{ post.date }}</updated>
+    <published>{{ post.published }}</published>
+    <updated>{{ post.updated }}</updated>
     {% if post.description %}<summary>{{ post.description }}</summary>{% endif %}
-    <content type="html">{{ post.content }}</content>
+    <content type="html" xml:base="{{ site.url }}/posts/{{ post.slug }}/">{{ post.content }}</content>
   </entry>
 {% endfor %}
 </feed>

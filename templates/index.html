@@ -2,12 +2,12 @@
 
 {% block content %}
 <div class="home">
-    <p class="site-name">{{ site.title }}</p>
+    <p class="site-name"><h1>{{ site.title }}</h1></p>
     {% if site.description %}
     <p class="tagline">{{ site.description }}</p>
     {% endif %}
     <hr class="divider">
-    <nav>
+    <nav class="segmented">
         <a href="/posts">Writing</a>
         <a href="/about">About</a>
         <a href="/friends">Friends</a>
