@@ -56,7 +56,7 @@ Very brief descriptions provided below for selected albums!
 - [_Dots and Loops_](https://en.wikipedia.org/wiki/Dots_and_Loops), Stereolab, 1997
 
   Really creative and fun album with a lot of great diverse sounding tracks.
-- [_Stereo Type A_](https://en.wikipedia.org/wiki/Stereo_Type_A), Cibo Matto, 199
+- [_Stereo Type A_](https://en.wikipedia.org/wiki/Stereo_Type_A), Cibo Matto, 1999
 
   I love how they blend so many ideas together.
 - [_Beaucoup Fish_](https://en.wikipedia.org/wiki/Beaucoup_Fish), Underworld, 1999
