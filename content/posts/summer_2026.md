@@ -12,7 +12,7 @@ This summer I handled three things: I took a summer class, I moved apartments
 Anthrocon 2026, I worked on realtime transit arrival signage for my university,
 and I worked on a patch for `clang`! I did many of these concurrently, giving me
 many days where I had very little time to think of anything other than working. 
-Despire this, Anthrocon 2026 was by far my favorite: it surpassed even last year's 
+Despite this, Anthrocon 2026 was by far my favorite: it surpassed even last year's 
 where I paneled for the first time.
 
 Moving out put me in an apartment entirely on my own for the first time in my
@@ -37,8 +37,8 @@ stairs at all to use. I don't care how small the machines are, if I don't need
 to use stairs to get to them and they are clean, I will be immensely happy.
 
 # Right Now
-I am completing my final semester at university which is exciting and nerve-
-wracking! By the end of December 2026 I will officially have a Bachelor of
+I am completing my final semester at university which is exciting and 
+nerve-wracking! By the end of December 2026 I will officially have a Bachelor of
 Science in Mathematical Sciences, complete with the paper certificate!
 Not to be outdone though, life won't let me savor the moment. I will have to 
 scramble to apply to as many jobs as I can and hope that I end up with something
@@ -122,5 +122,6 @@ BTW: If you are or know anyone who is in a position to hire someone for a
 software role and need a motivated junior engineer to hire, please tell them to
 reach out to me :) I would greatly appreciate it!
 
-Thanks for reading,
-Aured
+Thanks for reading!
+
+- Aured
