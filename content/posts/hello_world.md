@@ -3,6 +3,7 @@ title = "My First Post"
 date = 2025-05-22
 author = "Aured"
 +++
+
 This is my first post on this site. Nice!
 
 I am setting up this site as a place for some of my thoughts, writings, and 
